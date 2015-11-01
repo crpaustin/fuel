@@ -1,0 +1,75 @@
+
+
+#main-content-wrapper
+{
+	width: 100%;
+	margin: 20px auto;
+	
+}
+
+.main-content-position
+{
+	width: 70%;
+	margin: 0 auto;
+}
+.second-menu
+{
+	margin: 8px auto;
+}
+.third-menu
+{
+	margin: 8px auto;
+}
+.second-menu td, .third-menu td
+{
+	padding: 10px;
+}
+.pad-header
+{
+	text-align: center;
+	color:#ecf0f1;
+	padding: 15px 0;
+	font-size: 40px;
+}
+.transparent-bubble p
+{
+	color:white;
+}
+.contact-header
+{
+	font-weight: bold;
+	color: #ecf0f1;
+	border-bottom: 2px solid #0D1217 ;
+	margin: 3%;
+	padding-bottom: 45px
+}
+.contact-table
+{
+	font-weight: bold;
+	color: rgba(236, 240, 241, 0.7);
+	margin: 3%;
+}
+.contact-table td
+{
+	margin: 1%;
+}
+.contact-table td h1
+{
+	padding: 4% 0;
+	color: #ecf0f1
+}
+
+.about-text
+{
+	color: #ecf0f1;
+}
+
+.about-text h1
+{
+	padding: 10px 0 0 15px;
+}	
+.about-text p
+{
+	padding: 1%
+}
+
